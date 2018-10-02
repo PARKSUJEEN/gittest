@@ -12,12 +12,8 @@
 gitTest2.jsp
 github
 client
-<<<< HEAD
-
-client
-======
 server
->>>>> refs/remotes/choose
+refs/remotes/choose_remote_name/master
 
 
 </HEAD>
