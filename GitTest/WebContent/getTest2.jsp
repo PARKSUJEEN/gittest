@@ -8,8 +8,6 @@
 </head>
 <body>
 
-gitTest2.jsp
-workspace
 
 </body>
 </html>
