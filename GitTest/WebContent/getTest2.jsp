@@ -8,7 +8,8 @@
 </head>
 <body>
 
-WORKSPACE
+gitTest2.jsp
+workspace
 
 </body>
 </html>
