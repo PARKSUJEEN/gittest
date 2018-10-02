@@ -9,5 +9,18 @@
 <body>
 
 
+gitTest2.jsp
+github
+client
+<<<< HEAD
+
+client
+======
+server
+>>>>> refs/remotes/choose
+
+
+</HEAD>
+
 </body>
 </html>
